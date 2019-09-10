@@ -5,6 +5,6 @@ lastName = 'Mirzad'
 dateOfBirth = 19980411
 age = 21
 
-teacher = True
+teacher = True  
 print(firstName , lastName + str(age) + str(teacher))
 print(dateOfBirth + " ")
